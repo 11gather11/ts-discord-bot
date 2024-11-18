@@ -1,0 +1,13 @@
+{
+	"type": "service_account",
+	"project_id": "ts-lolserver-discord",
+	"private_key_id": "1e87bc1f01caed2507d31a3db969d433adcd7f0a",
+	"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFdFa+DStG50FC\nyZuQfnrBKq13cmV/VbtzdpOcBKrZOkycghuLF8Swx78szAxFJ08lPDOfa/KHc98E\nSOcLbGYodOrrT8QuoY3oZDLkn0IFJJKkkl5sp82Ps7HFszqcU8VRbwkjWlUeHSyJ\nPwhMZh6XwZZhyjHrs/CsrZUnNVNqnAECgSfL/FTHBHWOoI1fIjBbSamAI4+gEjyf\nxMLFps0JNaBRjgEdnD9z8U1G6mTrtV9frpWJM5y34gQhnq25luGs+Xz49jKvy2zc\nZHAdti00nzkhOgP6t0C/E/w7WP23PapvMul6Q/FxG6NJVojRV+qvz0NIfl3JejH5\ncm05cpHRAgMBAAECggEABrtkx2CGu0lgUSZeBS28F4YSDs/p6XmTD/NOQjlqLh39\n0C/jFVmHWs6d9D6gZCLcYNozWV9dEA9cM8FyN9JnjkAO5VxyxXM7yx1QGzmEeaKU\nVFjq2ryti8Ag6BW9rRLxwokXsD/2GyDRV1GR7HGRNUkuocwQFSeX+vnaa2aMSZwT\ndjSSlEM0o8QzoDkpF3EkPcxiPVmgbjLGs+R0TPgCwr2ZD4Qb7DCaH8FNmxdHrj/z\nxSq7qwj3CTG6Pkz5ANYyXOvY0TtPJ7KTxZVc80njjmtMZuqbrVEjKIMCgXZVJQn9\ns3P0Cy1dyKrbTVuV8Wwpejaj5J57LFlQABRNdtj18QKBgQD2LOdKoZUMOzan4dlr\nehS34hN+zUo+RdqiOUmHnaMMqQKu8ll4S3vDU1+hYHIWIPwiQEVAk4Zlpb2pjn20\n00zSjlg5gbZN9EdDsfBvjwz594NqHd+lHBPk29hVhPR/BnFjhVdkTZw20MMozpTS\nMmT4kKmy7nMd5tqDe5iuQt5AaQKBgQDNVaswWo6+y+L0Q/Di3mjPhqF3zpS29/La\nQ5h0CkujQ9SFTIyA61lODqqC3gOphPaNG8OOe2AoZaTS8p5JuQoTppodGqRzywYK\nWMqTdV5fzN/Bbk3cr+UsZlwVGujBVBqRi0VRUOOdtlsZFDMYTTC682VKn97WunCD\nvYIJYRAZKQKBgHvaI5N8r8wzjk/wZL6Z8QqCh2RoTE4APvsW71N3j6yy61KxQyou\nb9nZfGdoan2Pospoo27Vyewh8sX3lm7/T8svKlvkUp/tol0AjQLTaafpSwh8dyRO\neAPQR4rfFVNDHpD/aPRhx5IcfdNt+5m1GO+leHs5VFla59z2td4WblLhAoGAfi02\nlPAQ543CWPem/sJNBbllX4nCOO0Efrsq46Ov9xOndIIllNMKfbzlaqWi+niKSQvW\nj6eg3zIWpsoQGp1qY8jsyxWkGMOZYqJNWW+2Hoh2txZhIku0OCRuUUnH3YUhDm7W\nmbFrLW7xa+fNvhEw8LDAfarf9HN80HeTgM/0ZIECgYBogKzCV625a7ZBGnO49UHP\n/FB5OdcHMQR32OqDXlcWg10/GTqpUoOiEX/r/h/b8STTOXxgIy3siCk2F3Dz2IMj\ncuDT269zHo8Inrg8k5MqvyiaFtQLtd1i/ijEX9AdG/0PrNFUzxAkTq4pc/NtNEGa\nxjAwu1OjrAq0AzkfB62Bog==\n-----END PRIVATE KEY-----\n",
+	"client_email": "ts-lolserver-discord@ts-lolserver-discord.iam.gserviceaccount.com",
+	"client_id": "100237118764235790442",
+	"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	"token_uri": "https://oauth2.googleapis.com/token",
+	"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ts-lolserver-discord%40ts-lolserver-discord.iam.gserviceaccount.com",
+	"universe_domain": "googleapis.com"
+}

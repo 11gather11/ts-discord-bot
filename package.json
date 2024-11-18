@@ -1,0 +1,32 @@
+{
+	"name": "ts-lolserver-discord",
+	"version": "0.1.0",
+	"private": true,
+	"module": "src/index.ts",
+	"type": "module",
+	"scripts": {
+		"start:dev": "NODE_ENV=development bun src/index.ts",
+		"format": "biome format ./src/",
+		"lint": "biome lint ./src/",
+		"check": "biome check ./src/",
+		"fix:format": "biome format --write ./src/",
+		"fix:lint": "biome lint --write ./src/",
+		"fix:check": "biome check --write ./src/",
+		"start:prod": "NODE_ENV=production bun src/index.ts"
+	},
+	"dependencies": {
+		"discord.js": "14.16.3",
+		"googleapis": "144.0.0",
+		"neverthrow": "^8.1.1",
+		"twitter-api-v2": "^1.18.2",
+		"winston": "^3.17.0"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4",
+		"lefthook": "1.8.2",
+		"@types/bun": "1.1.13"
+	},
+	"peerDependencies": {
+		"typescript": "5.6.3"
+	}
+}
